@@ -1,5 +1,5 @@
 import React from "react";
-import MyButton from "./MyButton";
+import MyButton from "./myButton";
 import ParticlesBg from "particles-bg";
 
 const Home = () => {
