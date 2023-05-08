@@ -3,7 +3,7 @@ import React from "react";
 const MyButton = () => {
   return (
     <div>
-      <button> Klik aku disini</button>
+      <button> Klik aku disini dong</button>
     </div>
   );
 };
