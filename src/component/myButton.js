@@ -3,7 +3,9 @@ import React from "react";
 const MyButton = () => {
   return (
     <div>
-      <button> Klik aku disini dong</button>
+      <button type="button" class="btn-secondary" >
+        Yu di klik untuk masuk ke proses selanjutnya
+      </button>
     </div>
   );
 };
